@@ -152,7 +152,7 @@ const StyledContainer = styled.div`
   padding: 10px;
   border-radius: 10px;
   display: grid;
-  grid-template-columns: 6fr 2.5fr;
+  grid-template-columns: 6fr 3fr;
   background-color: #fff;
 
   ${(props) =>
