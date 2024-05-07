@@ -151,8 +151,8 @@ const StyledContainer = styled.div`
   border: 1px solid black;
   padding: 10px;
   border-radius: 10px;
-  display: grid;
-  grid-template-columns: 6fr 3fr;
+  display: flex;
+  justify-content: space-between;
   background-color: #fff;
 
   ${(props) =>
